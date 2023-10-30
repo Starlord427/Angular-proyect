@@ -1,2 +1,2 @@
-# Angular-proyect
+# myApp
 Angular
